@@ -2,7 +2,7 @@
 
 
 
-**LINGUAGENS E FERRAMENTAS:** 
+**Linguagens e Ferramentas:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -12,7 +12,7 @@
 
 <hr />
 
-**🔗 Connect with me on :** 
+**🔗 CONTATO: :** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasduarteeng/)](https://www.linkedin.com/in/douglasduarteeng/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Duartedev)](https://t.me/Duartedev)
